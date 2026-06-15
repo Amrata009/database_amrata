@@ -1,2 +1,2 @@
 # database_amrata
-a social media database dor incubien foundaion
+a social media database for incubien foundaion
